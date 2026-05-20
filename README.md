@@ -1,6 +1,6 @@
 # RLIE: Rule Learning via Iterative Estimation
 
-![RLIE prediction overview](assets/figs/intro.png)
+[RLIE prediction overview](assets/figs/intro.pdf)
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3.10%2B-blue">
@@ -25,7 +25,7 @@ This release contains the RLIE algorithm, task prompts, and bundled datasets. It
 
 ## Method
 
-![RLIE method pipeline](assets/figs/method.png)
+[RLIE method pipeline](assets/figs/method.pdf)
 
 RLIE runs the following loop:
 
