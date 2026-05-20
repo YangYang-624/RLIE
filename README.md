@@ -13,7 +13,7 @@ RLIE is an interpretable rule-learning pipeline for text classification. It asks
 
 Paper: [RLIE: Rule Generation with Logistic Regression, Iterative Refinement, and Evaluation for Large Language Models](https://arxiv.org/abs/2510.19698)
 
-This release contains the RLIE algorithm, task prompts, and bundled datasets. It intentionally excludes internal analysis scripts, cached LLM outputs, and experiment result folders.
+This release contains the RLIE algorithm, task prompts, and bundled datasets.
 
 ## Highlights
 
