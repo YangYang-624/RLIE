@@ -1,6 +1,6 @@
 # RLIE: Rule Learning via Iterative Estimation
 
-[RLIE prediction overview](assets/figs/intro.pdf)
+![RLIE prediction overview](assets/figs/intro.png)
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3.10%2B-blue">
@@ -25,7 +25,7 @@ This release contains the RLIE algorithm, task prompts, and bundled datasets. It
 
 ## Method
 
-[RLIE method pipeline](assets/figs/method.pdf)
+![RLIE method pipeline](assets/figs/method.png)
 
 RLIE runs the following loop:
 
@@ -320,5 +320,4 @@ If you use RLIE in your work, please cite the accompanying paper:
 
 - Do not commit API keys. Keep them in environment variables or a local `.env` file ignored by Git.
 - Runtime outputs can be large and are ignored by `.gitignore`.
-- The original figure PDFs are kept in `assets/figs/`; PNG exports are used for GitHub rendering.
 - Commands in this README assume you are running from the `RLIE/` repository root.
